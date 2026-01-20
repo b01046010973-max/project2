@@ -1,5 +1,4 @@
-# project2
-
+# Linux C-Build
 Linux 환경 C언어 개발 및 환경 구축
 
 1. 프로젝트 개요
